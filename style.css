@@ -1,0 +1,71 @@
+body{
+    background-color: grey;
+}
+
+form{
+    justify-content: space-between;
+    display: flex;
+}
+
+label{
+    color: white;
+    font-weight: 700;
+}
+
+button{
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+input{
+    height: 20px;
+    width: 60%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+#youtube{
+    color: white;
+    background-color: #FF0033;
+    border: 2px solid white;
+}
+
+#yt-b{
+    color: #FF0033;
+}
+
+#yt-l{
+    color: #FF0033;
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.bookmarks{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.bm{
+    background-color: rgb(222, 222, 222);
+    align-content: center;
+    display: flex;
+    width: 139px;
+    border: 4px solid whitesmoke;
+}
+
+#ac-logo{
+    height: 50px;
+}
